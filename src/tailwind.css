@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.links {
+    @apply hover:bg-yellow-400 border-2 rounded-full hover:border-yellow-400 px-4 transition ease-in-out delay-75
+}
+.links-menu {
+    @apply hover:bg-yellow-400 rounded-full px-4 text-white uppercase transition ease-in-out delay-75
+}
