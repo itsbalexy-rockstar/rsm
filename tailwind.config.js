@@ -4,7 +4,11 @@ module.exports = {
     ],
     darkMode: false,
     theme: {
-        extend: {}
+        extend: {
+            backgroundImage: {
+                'libraryImage': "url(/public/img/main.png)",
+            }
+        }
     },
     variants: {
         extend: {},
