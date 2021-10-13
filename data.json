@@ -1,5 +1,6 @@
 [
     {
+        "id": "1",
         "title":"El cuervo",
         "type": "Libro",
         "author": "Edgar Allan Poe",
@@ -7,6 +8,7 @@
         "price": "69900"
     },
     {
+        "id": "2",
         "title":"A fuego lento",
         "type": "Libro",
         "author": "Paula Hawkings",
@@ -14,6 +16,7 @@
         "price": "54900"
     },
     {
+        "id": "3",
         "title":"Las edades de la globalización",
         "type": "Libro",
         "author": "Jeffrey D. Sachs",
@@ -21,6 +24,7 @@
         "price": "49900"
     },
     {
+        "id": "4",
         "title":"Manual de supervivencia femenina",
         "type": "Libro",
         "author": "Carmen Larrazábal",
@@ -28,6 +32,7 @@
         "price": "49900"
     },
     {
+        "id": "5",
         "title":"¿Por qué los matan?",
         "type": "Libro",
         "author": "Ariel Ávila",
@@ -35,6 +40,7 @@
         "price": "49900"
     },
     {
+        "id": "6",
         "title":"Más allá del orden",
         "type": "Libro",
         "author": "Jordan B. Peterson",
@@ -42,6 +48,7 @@
         "price": "55900"
     },
     {
+        "id": "7",
         "title":"Tiempo de mujeres",
         "type": "Libro",
         "author": "Carmen Korn",
@@ -49,6 +56,7 @@
         "price": "69900"
     },
     {
+        "id": "8",
         "title":"Bitácora del naufragio",
         "type": "Libro",
         "author": "Mario Mendoza",
@@ -56,6 +64,7 @@
         "price": "65900"
     },
     {
+        "id": "9",
         "title":"La vida secreta de los extremistas",
         "type": "Libro",
         "author": "Julia Ebner",
@@ -63,6 +72,7 @@
         "price": "81900"
     },
     {
+        "id": "10",
         "title":"El fin del alzheimer",
         "type": "Libro",
         "author": "Dr. Dale Bredesen",
@@ -70,12 +80,14 @@
         "price": "119900"
     },
     {
+        "id": "11",
         "title":"Nosotros morimos solos",
         "type": "Libro",
         "author": "David Howarth",
         "url": "https://capitanswing.com/wp-content/uploads/DavidHowarth_NosotrosMorimosSolos.jpg",
         "price": "49900"
     },{
+        "id": "12",
         "title":"Aves de Colombia",
         "type": "Libro",
         "author": "Neotropical Bird Club",
