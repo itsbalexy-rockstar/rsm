@@ -1,0 +1,86 @@
+[
+    {
+        "title":"El cuervo",
+        "type": "Libro",
+        "author": "Edgar Allan Poe",
+        "url": "https://m.media-amazon.com/images/I/41DhFU2YlmL.jpg",
+        "price": "69900"
+    },
+    {
+        "title":"A fuego lento",
+        "type": "Libro",
+        "author": "Paula Hawkings",
+        "url": "https://www.planetadelibros.com.co/usuaris/libros/fotos/336/m_libros/portada_a-fuego-lento_paula-hawkins_202105181630.jpg",
+        "price": "54900"
+    },
+    {
+        "title":"Las edades de la globalización",
+        "type": "Libro",
+        "author": "Jeffrey D. Sachs",
+        "url": "https://www.planetadelibros.com.co/usuaris/libros/fotos/336/m_libros/portada_las-edades-de-la-globalizacion_jeffrey-d-sachs_202105290008.jpg",
+        "price": "49900"
+    },
+    {
+        "title":"Manual de supervivencia femenina",
+        "type": "Libro",
+        "author": "Carmen Larrazábal",
+        "url": "https://www.planetadelibros.com.co/usuaris/libros/fotos/329/m_libros/portada_manual-de-supervivencia-femenina_carmen-larrazabal_202012181755.jpg",
+        "price": "49900"
+    },
+    {
+        "title":"¿Por qué los matan?",
+        "type": "Libro",
+        "author": "Ariel Ávila",
+        "url": "https://panamericana.vteximg.com.br/arquivos/ids/369104-600-690/-por-que-los-matan--9789584288479.jpg?v=637406516943330000",
+        "price": "49900"
+    },
+    {
+        "title":"Más allá del orden",
+        "type": "Libro",
+        "author": "Jordan B. Peterson",
+        "url": "https://panamericana.vteximg.com.br/arquivos/ids/387286-600-690/mas-alla-del-orden-9789584293978.jpg?v=637518691490870000",
+        "price": "55900"
+    },
+    {
+        "title":"Tiempo de mujeres",
+        "type": "Libro",
+        "author": "Carmen Korn",
+        "url": "https://www.planetadelibros.com/usuaris/libros/fotos/322/m_libros/portada_tiempo-de-mujeres-saga-hijas-de-una-nueva-era-2_carmen-korn_202009281106.jpg",
+        "price": "69900"
+    },
+    {
+        "title":"Bitácora del naufragio",
+        "type": "Libro",
+        "author": "Mario Mendoza",
+        "url": "https://www.planetadelibros.com.co/usuaris/libros/fotos/332/m_libros/portada_bitacora-del-naufragio_mario-mendoza_202103270008.jpg",
+        "price": "65900"
+    },
+    {
+        "title":"La vida secreta de los extremistas",
+        "type": "Libro",
+        "author": "Julia Ebner",
+        "url": "https://panamericana.vteximg.com.br/arquivos/ids/378385-1080-1080/la-vida-secreta-de-los-extremistas-9789584292254.jpg?v=637472925205500000",
+        "price": "81900"
+    },
+    {
+        "title":"El fin del alzheimer",
+        "type": "Libro",
+        "author": "Dr. Dale Bredesen",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/81UVA6ywMML.jpg",
+        "price": "119900"
+    },
+    {
+        "title":"Nosotros morimos solos",
+        "type": "Libro",
+        "author": "David Howarth",
+        "url": "https://capitanswing.com/wp-content/uploads/DavidHowarth_NosotrosMorimosSolos.jpg",
+        "price": "49900"
+    },{
+        "title":"Aves de Colombia",
+        "type": "Libro",
+        "author": "Neotropical Bird Club",
+        "url": "https://www.avescaldas.com/wp-content/uploads/Miles-McMullan-08-guia-aves.jpg",
+        "price": "139900"
+    }
+
+]
